@@ -1,0 +1,785 @@
+
+Poprawiono bledy interfejsu uzytkownika
+Refaktoryzacja kodu
+Zaktualizowano dokumentacje
+Poprawiono wydajnosc aplikacji
+Poprawiono styl kodu
+Poprawiono wydajnosc aplikacji
+Zaktualizowano dokumentacje
+Refaktoryzacja kodu
+Zaktualizowano zaleznosci
+Dodano nowa funkcjonalnosc
+Refaktoryzacja kodu
+Refaktoryzacja kodu
+Poprawiono wydajnosc aplikacji
+Refaktoryzacja kodu
+Usunieto nieuzywane zaleznosci
+Dodano nowe testy jednostkowe
+Dodano nowe testy jednostkowe
+Dodano nowa funkcjonalnosc
+Zaktualizowano zaleznosci
+Usunieto nieuzywane zaleznosci
+Poprawiono wydajnosc aplikacji
+Zaktualizowano dokumentacje
+Refaktoryzacja kodu
+Usunieto nieuzywane zaleznosci
+Dodano nowe testy jednostkowe
+Poprawiono bledy interfejsu uzytkownika
+Dodano nowa funkcjonalnosc
+Dodano nowe testy jednostkowe
+Poprawiono bledy interfejsu uzytkownika
+Dodano nowe testy jednostkowe
+Poprawiono bledy interfejsu uzytkownika
+Refaktoryzacja kodu
+Poprawiono wydajnosc aplikacji
+Zaktualizowano dokumentacje
+Refaktoryzacja kodu
+Dodano nowa funkcjonalnosc
+Dodano nowa funkcjonalnosc
+Zaktualizowano dokumentacje
+Dodano nowa funkcjonalnosc
+Poprawiono blad zwiazany z logowaniem
+Poprawiono blad zwiazany z logowaniem
+Zaktualizowano zaleznosci
+Poprawiono bledy interfejsu uzytkownika
+Poprawiono bledy interfejsu uzytkownika
+Poprawiono styl kodu
+Dodano nowa funkcjonalnosc
+Poprawiono styl kodu
+Usunieto nieuzywane zaleznosci
+Poprawiono wydajnosc aplikacji
+Poprawiono bledy interfejsu uzytkownika
+Zaktualizowano dokumentacje
+Poprawiono wydajnosc aplikacji
+Zaktualizowano dokumentacje
+Dodano nowe testy jednostkowe
+Poprawiono bledy interfejsu uzytkownika
+Dodano nowe testy jednostkowe
+Dodano nowa funkcjonalnosc
+Zaktualizowano zaleznosci
+Poprawiono bledy interfejsu uzytkownika
+Poprawiono blad zwiazany z logowaniem
+Poprawiono blad zwiazany z logowaniem
+Poprawiono wydajnosc aplikacji
+Refaktoryzacja kodu
+Dodano nowe testy jednostkowe
+Poprawiono bledy interfejsu uzytkownika
+Poprawiono bledy interfejsu uzytkownika
+Dodano nowa funkcjonalnosc
+Zaktualizowano zaleznosci
+Zaktualizowano zaleznosci
+Poprawiono blad zwiazany z logowaniem
+Poprawiono wydajnosc aplikacji
+Dodano nowe testy jednostkowe
+Dodano nowa funkcjonalnosc
+Usunieto nieuzywane zaleznosci
+Poprawiono blad zwiazany z logowaniem
+Zaktualizowano dokumentacje
+Dodano nowa funkcjonalnosc
+Poprawiono blad zwiazany z logowaniem
+Refaktoryzacja kodu
+Poprawiono bledy interfejsu uzytkownika
+Usunieto nieuzywane zaleznosci
+Refaktoryzacja kodu
+Usunieto nieuzywane zaleznosci
+Poprawiono wydajnosc aplikacji
+Dodano nowa funkcjonalnosc
+Dodano nowa funkcjonalnosc
+Refaktoryzacja kodu
+Poprawiono wydajnosc aplikacji
+Zaktualizowano dokumentacje
+Poprawiono blad zwiazany z logowaniem
+Poprawiono styl kodu
+Poprawiono styl kodu
+Zaktualizowano dokumentacje
+Poprawiono styl kodu
+Poprawiono styl kodu
+Dodano nowa funkcjonalnosc
+Poprawiono blad zwiazany z logowaniem
+Zaktualizowano dokumentacje
+Zaktualizowano dokumentacje
+Zaktualizowano zaleznosci
+Refaktoryzacja kodu
+Poprawiono blad zwiazany z logowaniem
+Refaktoryzacja kodu
+Zaktualizowano dokumentacje
+Poprawiono styl kodu
+Dodano nowe testy jednostkowe
+Poprawiono styl kodu
+Poprawiono wydajnosc aplikacji
+Refaktoryzacja kodu
+Poprawiono blad zwiazany z logowaniem
+Poprawiono bledy interfejsu uzytkownika
+Usunieto nieuzywane zaleznosci
+Poprawiono styl kodu
+Zaktualizowano dokumentacje
+Dodano nowa funkcjonalnosc
+Poprawiono wydajnosc aplikacji
+Dodano nowe testy jednostkowe
+Usunieto nieuzywane zaleznosci
+Dodano nowe testy jednostkowe
+Poprawiono styl kodu
+Zaktualizowano dokumentacje
+Zaktualizowano dokumentacje
+Poprawiono styl kodu
+Zaktualizowano zaleznosci
+Refaktoryzacja kodu
+Zaktualizowano zaleznosci
+Zaktualizowano dokumentacje
+Zaktualizowano dokumentacje
+Zaktualizowano zaleznosci
+Poprawiono wydajnosc aplikacji
+Poprawiono wydajnosc aplikacji
+Dodano nowa funkcjonalnosc
+Zaktualizowano zaleznosci
+Refaktoryzacja kodu
+Usunieto nieuzywane zaleznosci
+Usunieto nieuzywane zaleznosci
+Poprawiono wydajnosc aplikacji
+Refaktoryzacja kodu
+Poprawiono bledy interfejsu uzytkownika
+Dodano nowe testy jednostkowe
+Poprawiono blad zwiazany z logowaniem
+Zaktualizowano dokumentacje
+Poprawiono blad zwiazany z logowaniem
+Zaktualizowano dokumentacje
+Poprawiono wydajnosc aplikacji
+Usunieto nieuzywane zaleznosci
+Zaktualizowano zaleznosci
+Poprawiono styl kodu
+Zaktualizowano zaleznosci
+Poprawiono bledy interfejsu uzytkownika
+Refaktoryzacja kodu
+Refaktoryzacja kodu
+Poprawiono blad zwiazany z logowaniem
+Poprawiono blad zwiazany z logowaniem
+Refaktoryzacja kodu
+Poprawiono styl kodu
+Poprawiono blad zwiazany z logowaniem
+Usunieto nieuzywane zaleznosci
+Zaktualizowano zaleznosci
+Refaktoryzacja kodu
+Usunieto nieuzywane zaleznosci
+Dodano nowe testy jednostkowe
+Poprawiono blad zwiazany z logowaniem
+Zaktualizowano zaleznosci
+Usunieto nieuzywane zaleznosci
+Poprawiono blad zwiazany z logowaniem
+Zaktualizowano dokumentacje
+Poprawiono styl kodu
+Poprawiono wydajnosc aplikacji
+Poprawiono styl kodu
+Poprawiono blad zwiazany z logowaniem
+Poprawiono bledy interfejsu uzytkownika
+Poprawiono bledy interfejsu uzytkownika
+Zaktualizowano dokumentacje
+Poprawiono bledy interfejsu uzytkownika
+Poprawiono bledy interfejsu uzytkownika
+Dodano nowe testy jednostkowe
+Zaktualizowano dokumentacje
+Poprawiono blad zwiazany z logowaniem
+Dodano nowe testy jednostkowe
+Zaktualizowano zaleznosci
+Zaktualizowano zaleznosci
+Zaktualizowano zaleznosci
+Dodano nowe testy jednostkowe
+Poprawiono styl kodu
+Poprawiono styl kodu
+Zaktualizowano zaleznosci
+Dodano nowa funkcjonalnosc
+Zaktualizowano dokumentacje
+Zaktualizowano dokumentacje
+Dodano nowa funkcjonalnosc
+Refaktoryzacja kodu
+Zaktualizowano dokumentacje
+Zaktualizowano zaleznosci
+Zaktualizowano dokumentacje
+Dodano nowa funkcjonalnosc
+Dodano nowa funkcjonalnosc
+Dodano nowe testy jednostkowe
+Poprawiono bledy interfejsu uzytkownika
+Poprawiono blad zwiazany z logowaniem
+Dodano nowa funkcjonalnosc
+Poprawiono blad zwiazany z logowaniem
+Dodano nowe testy jednostkowe
+Zaktualizowano dokumentacje
+Poprawiono bledy interfejsu uzytkownika
+Poprawiono wydajnosc aplikacji
+Usunieto nieuzywane zaleznosci
+Refaktoryzacja kodu
+Zaktualizowano zaleznosci
+Refaktoryzacja kodu
+Poprawiono blad zwiazany z logowaniem
+Dodano nowe testy jednostkowe
+Refaktoryzacja kodu
+Poprawiono bledy interfejsu uzytkownika
+Dodano nowe testy jednostkowe
+Poprawiono wydajnosc aplikacji
+Usunieto nieuzywane zaleznosci
+Dodano nowa funkcjonalnosc
+Poprawiono styl kodu
+Poprawiono wydajnosc aplikacji
+Poprawiono styl kodu
+Poprawiono wydajnosc aplikacji
+Refaktoryzacja kodu
+Poprawiono bledy interfejsu uzytkownika
+Refaktoryzacja kodu
+Usunieto nieuzywane zaleznosci
+Zaktualizowano zaleznosci
+Poprawiono styl kodu
+Poprawiono blad zwiazany z logowaniem
+Usunieto nieuzywane zaleznosci
+Zaktualizowano zaleznosci
+Poprawiono styl kodu
+Dodano nowa funkcjonalnosc
+Refaktoryzacja kodu
+Dodano nowe testy jednostkowe
+Dodano nowa funkcjonalnosc
+Poprawiono styl kodu
+Usunieto nieuzywane zaleznosci
+Poprawiono styl kodu
+Dodano nowa funkcjonalnosc
+Usunieto nieuzywane zaleznosci
+Dodano nowa funkcjonalnosc
+Dodano nowe testy jednostkowe
+Zaktualizowano zaleznosci
+Zaktualizowano dokumentacje
+Poprawiono blad zwiazany z logowaniem
+Poprawiono bledy interfejsu uzytkownika
+Refaktoryzacja kodu
+Zaktualizowano zaleznosci
+Poprawiono wydajnosc aplikacji
+Poprawiono styl kodu
+Poprawiono bledy interfejsu uzytkownika
+Usunieto nieuzywane zaleznosci
+Poprawiono styl kodu
+Zaktualizowano dokumentacje
+Refaktoryzacja kodu
+Poprawiono bledy interfejsu uzytkownika
+Dodano nowa funkcjonalnosc
+Usunieto nieuzywane zaleznosci
+Poprawiono blad zwiazany z logowaniem
+Dodano nowe testy jednostkowe
+Poprawiono styl kodu
+Usunieto nieuzywane zaleznosci
+Poprawiono wydajnosc aplikacji
+Poprawiono wydajnosc aplikacji
+Dodano nowa funkcjonalnosc
+Zaktualizowano dokumentacje
+Poprawiono bledy interfejsu uzytkownika
+Poprawiono bledy interfejsu uzytkownika
+Usunieto nieuzywane zaleznosci
+Zaktualizowano dokumentacje
+Poprawiono styl kodu
+Poprawiono styl kodu
+Dodano nowe testy jednostkowe
+Poprawiono blad zwiazany z logowaniem
+Poprawiono styl kodu
+Dodano nowe testy jednostkowe
+Dodano nowa funkcjonalnosc
+Poprawiono blad zwiazany z logowaniem
+Refaktoryzacja kodu
+Dodano nowe testy jednostkowe
+Poprawiono bledy interfejsu uzytkownika
+Zaktualizowano zaleznosci
+Dodano nowa funkcjonalnosc
+Poprawiono styl kodu
+Dodano nowe testy jednostkowe
+Refaktoryzacja kodu
+Usunieto nieuzywane zaleznosci
+Refaktoryzacja kodu
+Refaktoryzacja kodu
+Poprawiono wydajnosc aplikacji
+Zaktualizowano zaleznosci
+Poprawiono wydajnosc aplikacji
+Refaktoryzacja kodu
+Poprawiono bledy interfejsu uzytkownika
+Dodano nowa funkcjonalnosc
+Dodano nowa funkcjonalnosc
+Usunieto nieuzywane zaleznosci
+Dodano nowa funkcjonalnosc
+Refaktoryzacja kodu
+Poprawiono wydajnosc aplikacji
+Poprawiono wydajnosc aplikacji
+Usunieto nieuzywane zaleznosci
+Poprawiono bledy interfejsu uzytkownika
+Usunieto nieuzywane zaleznosci
+Poprawiono blad zwiazany z logowaniem
+Dodano nowe testy jednostkowe
+Zaktualizowano zaleznosci
+Poprawiono blad zwiazany z logowaniem
+Poprawiono blad zwiazany z logowaniem
+Refaktoryzacja kodu
+Poprawiono wydajnosc aplikacji
+Dodano nowe testy jednostkowe
+Poprawiono styl kodu
+Poprawiono wydajnosc aplikacji
+Zaktualizowano dokumentacje
+Poprawiono blad zwiazany z logowaniem
+Poprawiono bledy interfejsu uzytkownika
+Poprawiono blad zwiazany z logowaniem
+Poprawiono blad zwiazany z logowaniem
+Poprawiono wydajnosc aplikacji
+Usunieto nieuzywane zaleznosci
+Zaktualizowano zaleznosci
+Zaktualizowano zaleznosci
+Dodano nowe testy jednostkowe
+Poprawiono wydajnosc aplikacji
+Poprawiono wydajnosc aplikacji
+Poprawiono bledy interfejsu uzytkownika
+Zaktualizowano zaleznosci
+Poprawiono bledy interfejsu uzytkownika
+Poprawiono styl kodu
+Poprawiono styl kodu
+Poprawiono blad zwiazany z logowaniem
+Dodano nowe testy jednostkowe
+Zaktualizowano dokumentacje
+Poprawiono bledy interfejsu uzytkownika
+Zaktualizowano dokumentacje
+Poprawiono styl kodu
+Zaktualizowano zaleznosci
+Poprawiono bledy interfejsu uzytkownika
+Zaktualizowano dokumentacje
+Refaktoryzacja kodu
+Poprawiono bledy interfejsu uzytkownika
+Zaktualizowano zaleznosci
+Poprawiono blad zwiazany z logowaniem
+Zaktualizowano zaleznosci
+Poprawiono wydajnosc aplikacji
+Zaktualizowano zaleznosci
+Usunieto nieuzywane zaleznosci
+Poprawiono wydajnosc aplikacji
+Poprawiono wydajnosc aplikacji
+Dodano nowa funkcjonalnosc
+Zaktualizowano zaleznosci
+Dodano nowe testy jednostkowe
+Dodano nowe testy jednostkowe
+Poprawiono wydajnosc aplikacji
+Zaktualizowano dokumentacje
+Zaktualizowano dokumentacje
+Dodano nowe testy jednostkowe
+Zaktualizowano zaleznosci
+Poprawiono wydajnosc aplikacji
+Dodano nowa funkcjonalnosc
+Poprawiono styl kodu
+Poprawiono bledy interfejsu uzytkownika
+Refaktoryzacja kodu
+Zaktualizowano dokumentacje
+Refaktoryzacja kodu
+Zaktualizowano zaleznosci
+Poprawiono bledy interfejsu uzytkownika
+Zaktualizowano zaleznosci
+Zaktualizowano zaleznosci
+Poprawiono blad zwiazany z logowaniem
+Zaktualizowano dokumentacje
+Dodano nowe testy jednostkowe
+Poprawiono styl kodu
+Zaktualizowano dokumentacje
+Refaktoryzacja kodu
+Poprawiono styl kodu
+Usunieto nieuzywane zaleznosci
+Poprawiono blad zwiazany z logowaniem
+Dodano nowe testy jednostkowe
+Poprawiono blad zwiazany z logowaniem
+Zaktualizowano dokumentacje
+Zaktualizowano dokumentacje
+Dodano nowe testy jednostkowe
+Poprawiono bledy interfejsu uzytkownika
+Dodano nowa funkcjonalnosc
+Dodano nowa funkcjonalnosc
+Poprawiono wydajnosc aplikacji
+Dodano nowe testy jednostkowe
+Zaktualizowano dokumentacje
+Poprawiono blad zwiazany z logowaniem
+Usunieto nieuzywane zaleznosci
+Poprawiono blad zwiazany z logowaniem
+Poprawiono wydajnosc aplikacji
+Zaktualizowano dokumentacje
+Poprawiono wydajnosc aplikacji
+Dodano nowe testy jednostkowe
+Poprawiono styl kodu
+Usunieto nieuzywane zaleznosci
+Dodano nowe testy jednostkowe
+Zaktualizowano zaleznosci
+Usunieto nieuzywane zaleznosci
+Usunieto nieuzywane zaleznosci
+Refaktoryzacja kodu
+Dodano nowa funkcjonalnosc
+Poprawiono wydajnosc aplikacji
+Dodano nowe testy jednostkowe
+Zaktualizowano zaleznosci
+Poprawiono blad zwiazany z logowaniem
+Zaktualizowano dokumentacje
+Usunieto nieuzywane zaleznosci
+Refaktoryzacja kodu
+Poprawiono blad zwiazany z logowaniem
+Dodano nowe testy jednostkowe
+Refaktoryzacja kodu
+Poprawiono bledy interfejsu uzytkownika
+Refaktoryzacja kodu
+Zaktualizowano zaleznosci
+Poprawiono bledy interfejsu uzytkownika
+Usunieto nieuzywane zaleznosci
+Refaktoryzacja kodu
+Refaktoryzacja kodu
+Poprawiono wydajnosc aplikacji
+Zaktualizowano zaleznosci
+Zaktualizowano zaleznosci
+Poprawiono blad zwiazany z logowaniem
+Dodano nowe testy jednostkowe
+Dodano nowe testy jednostkowe
+Poprawiono styl kodu
+Dodano nowe testy jednostkowe
+Dodano nowa funkcjonalnosc
+Poprawiono blad zwiazany z logowaniem
+Poprawiono wydajnosc aplikacji
+Dodano nowa funkcjonalnosc
+Zaktualizowano dokumentacje
+Dodano nowe testy jednostkowe
+Refaktoryzacja kodu
+Poprawiono blad zwiazany z logowaniem
+Zaktualizowano zaleznosci
+Dodano nowa funkcjonalnosc
+Poprawiono blad zwiazany z logowaniem
+Poprawiono wydajnosc aplikacji
+Dodano nowa funkcjonalnosc
+Poprawiono bledy interfejsu uzytkownika
+Usunieto nieuzywane zaleznosci
+Usunieto nieuzywane zaleznosci
+Refaktoryzacja kodu
+Poprawiono bledy interfejsu uzytkownika
+Poprawiono blad zwiazany z logowaniem
+Dodano nowe testy jednostkowe
+Poprawiono wydajnosc aplikacji
+Poprawiono bledy interfejsu uzytkownika
+Zaktualizowano dokumentacje
+Poprawiono wydajnosc aplikacji
+Refaktoryzacja kodu
+Poprawiono styl kodu
+Poprawiono styl kodu
+Poprawiono styl kodu
+Poprawiono wydajnosc aplikacji
+Poprawiono styl kodu
+Refaktoryzacja kodu
+Usunieto nieuzywane zaleznosci
+Zaktualizowano zaleznosci
+Poprawiono bledy interfejsu uzytkownika
+Poprawiono styl kodu
+Dodano nowe testy jednostkowe
+Poprawiono bledy interfejsu uzytkownika
+Zaktualizowano zaleznosci
+Poprawiono bledy interfejsu uzytkownika
+Zaktualizowano zaleznosci
+Dodano nowe testy jednostkowe
+Poprawiono blad zwiazany z logowaniem
+Zaktualizowano dokumentacje
+Poprawiono blad zwiazany z logowaniem
+Poprawiono wydajnosc aplikacji
+Zaktualizowano zaleznosci
+Poprawiono styl kodu
+Zaktualizowano zaleznosci
+Usunieto nieuzywane zaleznosci
+Zaktualizowano dokumentacje
+Poprawiono bledy interfejsu uzytkownika
+Zaktualizowano dokumentacje
+Zaktualizowano zaleznosci
+Zaktualizowano dokumentacje
+Poprawiono blad zwiazany z logowaniem
+Zaktualizowano dokumentacje
+Poprawiono styl kodu
+Dodano nowa funkcjonalnosc
+Poprawiono blad zwiazany z logowaniem
+Zaktualizowano zaleznosci
+Refaktoryzacja kodu
+Refaktoryzacja kodu
+Dodano nowa funkcjonalnosc
+Dodano nowe testy jednostkowe
+Poprawiono bledy interfejsu uzytkownika
+Refaktoryzacja kodu
+Refaktoryzacja kodu
+Zaktualizowano zaleznosci
+Dodano nowe testy jednostkowe
+Poprawiono bledy interfejsu uzytkownika
+Poprawiono styl kodu
+Usunieto nieuzywane zaleznosci
+Zaktualizowano zaleznosci
+Zaktualizowano zaleznosci
+Zaktualizowano dokumentacje
+Zaktualizowano zaleznosci
+Dodano nowa funkcjonalnosc
+Usunieto nieuzywane zaleznosci
+Zaktualizowano dokumentacje
+Refaktoryzacja kodu
+Poprawiono styl kodu
+Dodano nowe testy jednostkowe
+Poprawiono wydajnosc aplikacji
+Poprawiono wydajnosc aplikacji
+Poprawiono styl kodu
+Dodano nowe testy jednostkowe
+Refaktoryzacja kodu
+Dodano nowe testy jednostkowe
+Dodano nowe testy jednostkowe
+Poprawiono blad zwiazany z logowaniem
+Poprawiono bledy interfejsu uzytkownika
+Poprawiono bledy interfejsu uzytkownika
+Usunieto nieuzywane zaleznosci
+Zaktualizowano dokumentacje
+Refaktoryzacja kodu
+Zaktualizowano zaleznosci
+Poprawiono styl kodu
+Zaktualizowano dokumentacje
+Poprawiono bledy interfejsu uzytkownika
+Poprawiono styl kodu
+Usunieto nieuzywane zaleznosci
+Poprawiono wydajnosc aplikacji
+Usunieto nieuzywane zaleznosci
+Poprawiono styl kodu
+Poprawiono wydajnosc aplikacji
+Usunieto nieuzywane zaleznosci
+Poprawiono bledy interfejsu uzytkownika
+Zaktualizowano dokumentacje
+Usunieto nieuzywane zaleznosci
+Zaktualizowano zaleznosci
+Poprawiono styl kodu
+Usunieto nieuzywane zaleznosci
+Poprawiono wydajnosc aplikacji
+Zaktualizowano zaleznosci
+Zaktualizowano zaleznosci
+Zaktualizowano dokumentacje
+Zaktualizowano zaleznosci
+Dodano nowa funkcjonalnosc
+Poprawiono styl kodu
+Zaktualizowano zaleznosci
+Refaktoryzacja kodu
+Poprawiono styl kodu
+Poprawiono styl kodu
+Poprawiono styl kodu
+Poprawiono bledy interfejsu uzytkownika
+Dodano nowe testy jednostkowe
+Usunieto nieuzywane zaleznosci
+Poprawiono bledy interfejsu uzytkownika
+Poprawiono bledy interfejsu uzytkownika
+Poprawiono styl kodu
+Dodano nowa funkcjonalnosc
+Usunieto nieuzywane zaleznosci
+Zaktualizowano zaleznosci
+Poprawiono blad zwiazany z logowaniem
+Refaktoryzacja kodu
+Usunieto nieuzywane zaleznosci
+Poprawiono bledy interfejsu uzytkownika
+Usunieto nieuzywane zaleznosci
+Dodano nowe testy jednostkowe
+Zaktualizowano dokumentacje
+Poprawiono blad zwiazany z logowaniem
+Refaktoryzacja kodu
+Poprawiono bledy interfejsu uzytkownika
+Refaktoryzacja kodu
+Poprawiono wydajnosc aplikacji
+Refaktoryzacja kodu
+Usunieto nieuzywane zaleznosci
+Poprawiono bledy interfejsu uzytkownika
+Poprawiono wydajnosc aplikacji
+Dodano nowa funkcjonalnosc
+Dodano nowa funkcjonalnosc
+Usunieto nieuzywane zaleznosci
+Usunieto nieuzywane zaleznosci
+Zaktualizowano dokumentacje
+Poprawiono bledy interfejsu uzytkownika
+Refaktoryzacja kodu
+Usunieto nieuzywane zaleznosci
+Poprawiono styl kodu
+Dodano nowe testy jednostkowe
+Poprawiono styl kodu
+Poprawiono wydajnosc aplikacji
+Refaktoryzacja kodu
+Poprawiono blad zwiazany z logowaniem
+Refaktoryzacja kodu
+Poprawiono bledy interfejsu uzytkownika
+Zaktualizowano dokumentacje
+Poprawiono styl kodu
+Poprawiono blad zwiazany z logowaniem
+Zaktualizowano dokumentacje
+Poprawiono wydajnosc aplikacji
+Poprawiono styl kodu
+Poprawiono wydajnosc aplikacji
+Refaktoryzacja kodu
+Zaktualizowano zaleznosci
+Poprawiono wydajnosc aplikacji
+Dodano nowe testy jednostkowe
+Poprawiono wydajnosc aplikacji
+Zaktualizowano zaleznosci
+Dodano nowe testy jednostkowe
+Zaktualizowano dokumentacje
+Poprawiono wydajnosc aplikacji
+Poprawiono styl kodu
+Poprawiono blad zwiazany z logowaniem
+Poprawiono styl kodu
+Refaktoryzacja kodu
+Zaktualizowano zaleznosci
+Poprawiono blad zwiazany z logowaniem
+Usunieto nieuzywane zaleznosci
+Poprawiono wydajnosc aplikacji
+Poprawiono blad zwiazany z logowaniem
+Dodano nowe testy jednostkowe
+Dodano nowa funkcjonalnosc
+Refaktoryzacja kodu
+Poprawiono styl kodu
+Dodano nowa funkcjonalnosc
+Poprawiono blad zwiazany z logowaniem
+Dodano nowe testy jednostkowe
+Poprawiono blad zwiazany z logowaniem
+Poprawiono blad zwiazany z logowaniem
+Dodano nowe testy jednostkowe
+Dodano nowa funkcjonalnosc
+Dodano nowe testy jednostkowe
+Refaktoryzacja kodu
+Zaktualizowano dokumentacje
+Refaktoryzacja kodu
+Poprawiono wydajnosc aplikacji
+Zaktualizowano dokumentacje
+Dodano nowa funkcjonalnosc
+Dodano nowe testy jednostkowe
+Poprawiono bledy interfejsu uzytkownika
+Poprawiono bledy interfejsu uzytkownika
+Dodano nowa funkcjonalnosc
+Usunieto nieuzywane zaleznosci
+Poprawiono bledy interfejsu uzytkownika
+Zaktualizowano zaleznosci
+Poprawiono bledy interfejsu uzytkownika
+Poprawiono styl kodu
+Zaktualizowano zaleznosci
+Poprawiono blad zwiazany z logowaniem
+Zaktualizowano zaleznosci
+Poprawiono blad zwiazany z logowaniem
+Zaktualizowano zaleznosci
+Refaktoryzacja kodu
+Dodano nowe testy jednostkowe
+Poprawiono wydajnosc aplikacji
+Dodano nowa funkcjonalnosc
+Poprawiono styl kodu
+Usunieto nieuzywane zaleznosci
+Poprawiono bledy interfejsu uzytkownika
+Usunieto nieuzywane zaleznosci
+Poprawiono blad zwiazany z logowaniem
+Poprawiono blad zwiazany z logowaniem
+Poprawiono styl kodu
+Zaktualizowano zaleznosci
+Poprawiono bledy interfejsu uzytkownika
+Dodano nowe testy jednostkowe
+Refaktoryzacja kodu
+Dodano nowa funkcjonalnosc
+Poprawiono wydajnosc aplikacji
+Poprawiono styl kodu
+Poprawiono wydajnosc aplikacji
+Dodano nowa funkcjonalnosc
+Poprawiono wydajnosc aplikacji
+Zaktualizowano dokumentacje
+Refaktoryzacja kodu
+Usunieto nieuzywane zaleznosci
+Refaktoryzacja kodu
+Dodano nowe testy jednostkowe
+Dodano nowa funkcjonalnosc
+Poprawiono bledy interfejsu uzytkownika
+Poprawiono styl kodu
+Poprawiono wydajnosc aplikacji
+Poprawiono blad zwiazany z logowaniem
+Poprawiono blad zwiazany z logowaniem
+Poprawiono bledy interfejsu uzytkownika
+Poprawiono bledy interfejsu uzytkownika
+Usunieto nieuzywane zaleznosci
+Poprawiono styl kodu
+Zaktualizowano dokumentacje
+Usunieto nieuzywane zaleznosci
+Zaktualizowano dokumentacje
+Poprawiono bledy interfejsu uzytkownika
+Poprawiono styl kodu
+Zaktualizowano dokumentacje
+Usunieto nieuzywane zaleznosci
+Usunieto nieuzywane zaleznosci
+Dodano nowe testy jednostkowe
+Usunieto nieuzywane zaleznosci
+Dodano nowa funkcjonalnosc
+Poprawiono blad zwiazany z logowaniem
+Poprawiono bledy interfejsu uzytkownika
+Poprawiono wydajnosc aplikacji
+Poprawiono bledy interfejsu uzytkownika
+Refaktoryzacja kodu
+Usunieto nieuzywane zaleznosci
+Poprawiono styl kodu
+Zaktualizowano zaleznosci
+Dodano nowa funkcjonalnosc
+Zaktualizowano zaleznosci
+Refaktoryzacja kodu
+Dodano nowa funkcjonalnosc
+Dodano nowa funkcjonalnosc
+Poprawiono blad zwiazany z logowaniem
+Dodano nowe testy jednostkowe
+Dodano nowa funkcjonalnosc
+Refaktoryzacja kodu
+Poprawiono styl kodu
+Poprawiono wydajnosc aplikacji
+Zaktualizowano zaleznosci
+Usunieto nieuzywane zaleznosci
+Poprawiono blad zwiazany z logowaniem
+Zaktualizowano zaleznosci
+Poprawiono blad zwiazany z logowaniem
+Poprawiono styl kodu
+Zaktualizowano zaleznosci
+Poprawiono bledy interfejsu uzytkownika
+Usunieto nieuzywane zaleznosci
+Usunieto nieuzywane zaleznosci
+Dodano nowe testy jednostkowe
+Usunieto nieuzywane zaleznosci
+Poprawiono wydajnosc aplikacji
+Zaktualizowano zaleznosci
+Poprawiono styl kodu
+Poprawiono wydajnosc aplikacji
+Usunieto nieuzywane zaleznosci
+Dodano nowa funkcjonalnosc
+Zaktualizowano dokumentacje
+Usunieto nieuzywane zaleznosci
+Poprawiono blad zwiazany z logowaniem
+Zaktualizowano dokumentacje
+Poprawiono wydajnosc aplikacji
+Poprawiono styl kodu
+Zaktualizowano zaleznosci
+Usunieto nieuzywane zaleznosci
+Poprawiono blad zwiazany z logowaniem
+Poprawiono styl kodu
+Poprawiono wydajnosc aplikacji
+Usunieto nieuzywane zaleznosci
+Dodano nowe testy jednostkowe
+Poprawiono styl kodu
+Poprawiono styl kodu
+Poprawiono blad zwiazany z logowaniem
+Refaktoryzacja kodu
+Dodano nowe testy jednostkowe
+Zaktualizowano zaleznosci
+Usunieto nieuzywane zaleznosci
+Dodano nowa funkcjonalnosc
+Poprawiono blad zwiazany z logowaniem
+Poprawiono blad zwiazany z logowaniem
+Poprawiono bledy interfejsu uzytkownika
+Zaktualizowano zaleznosci
+Usunieto nieuzywane zaleznosci
+Poprawiono wydajnosc aplikacji
+Refaktoryzacja kodu
+Dodano nowe testy jednostkowe
+Refaktoryzacja kodu
+Poprawiono wydajnosc aplikacji
+Poprawiono styl kodu
+Poprawiono styl kodu
+Dodano nowa funkcjonalnosc
+Refaktoryzacja kodu
+Poprawiono blad zwiazany z logowaniem
+Poprawiono blad zwiazany z logowaniem
+Poprawiono blad zwiazany z logowaniem
+Zaktualizowano dokumentacje
+Poprawiono blad zwiazany z logowaniem
+Usunieto nieuzywane zaleznosci
+Dodano nowa funkcjonalnosc
+Zaktualizowano zaleznosci
+Poprawiono styl kodu
+Poprawiono styl kodu
+Refaktoryzacja kodu
+Poprawiono wydajnosc aplikacji
